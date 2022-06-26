@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    @import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100;300&display=swap');
+}
+
+body{
+    background-color: #F0F2F5;
+}
+ .esas{
+    display: flex;
+    background-color: #F0F2F5;
+    justify-content: space-around;
+    padding: 130px 100px;
+
+    
+ }
+ 
+ .logosehife{
+    justify-items: center;
+    display: flexbox;
+    align-items: center;
+    padding-top: 70px;
+    
+    
+    
+    
+ }
+   img{
+    height: 106px;
+    width: 300px;
+    margin: -28px;
+   
+
+    
+    
+   }
+    h1{
+        font-family: 'Anek Malayalam', sans-serif;
+        font-size: 27px;
+        padding-top: 10px;
+        
+        
+    }
+
+ 
+ 
+    
+
+ .loginsehife{
+    padding: 70px 20px;
+    background-color: #fff;
+    display:flex;
+    border-radius: 9px;
+    box-shadow: #292b2e;
+    box-sizing: border-box;
+   
+ }
+ .form{
+    padding: 100px;
+ }
+
+ .crt{
+    justify-content: center;
+    text-align-last: right;
+    margin-right: 200px;
+    padding: 0%;
+    
+ }
+  .crt a{
+    color: black;
+  }
