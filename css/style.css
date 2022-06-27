@@ -48,17 +48,16 @@ body{
     
 
  .loginsehife{
-    padding: 70px 20px;
+    padding: 15px;
     background-color: #fff;
     display:flex;
     border-radius: 9px;
     box-shadow: #292b2e;
-    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
    
  }
- .form{
-    padding: 100px;
- }
+ 
 
  .crt{
     justify-content: center;
@@ -70,3 +69,55 @@ body{
   .crt a{
     color: black;
   }
+
+  form {
+   display: flexbox;
+   justify-content: center;
+   align-items: center;
+   border-radius: 5px;
+   box-shadow: #292b2e;
+ 
+}
+ 
+#email {
+padding:15px;
+width: 330px;
+border-radius: 8px;
+border-color: #d0d3da;
+}
+#pwd {
+   padding: 15px;
+   width: 330px;
+   border-radius: 8px;
+   border-color: #c5c8cc;
+}
+#button{
+width: 360px;
+padding:15px;
+align-items: center;
+background-color:#1877F2;
+justify-content: center;
+border-radius: 8px;
+
+
+}
+ #forgot{
+   text-decoration: none;
+   align-items: center;
+   text-align: center;
+ }
+ 
+ #crta{
+   justify-content: center;
+   background-color: #42B72A;
+   padding: 15px;
+   width: 200px;
+   border-radius: 8px;
+   border-color: none;
+   margin: 25px;
+   
+
+ }
+
+
+  
