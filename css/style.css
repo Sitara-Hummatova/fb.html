@@ -110,7 +110,7 @@ border: 1px solid #dddfe2;
    width: 330px;
    border-radius: 8px;
    border: 1px solid #dddfe2;
-   cursor: pointer;
+   
 }
 
 
@@ -149,9 +149,11 @@ cursor: pointer;
     line-height: 1.34;
     padding: 23px;
 
-
    
- }
+ 
+  }
+
+  
  
  #crta{
    justify-content: center;
